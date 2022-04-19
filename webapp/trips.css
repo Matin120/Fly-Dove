@@ -1,0 +1,87 @@
+.footbar {
+    text-decoration: none;
+    padding: 20px;
+    font-size: 18px;
+    color: rgba(133, 125, 125, 0.925);
+}
+
+#foot {
+    background-color: black;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 68px;
+    margin-top: 80px;
+    text-align: center;
+
+}
+
+#detail-butt {
+    width: 80px;
+    height: 35px;
+    margin: 30px;
+    border: none;
+    color: white;
+    background-color: rgb(21, 21, 56);
+}
+
+.detail-sec {
+    height: 40px;
+    width: 300px;
+     border-top: 0px;
+     border-left: 0px;
+     border-right: 0px;
+     border-bottom-color: #bbbbaa;
+     margin-bottom: 10px;
+}
+
+#form-details {
+    background-color: white;
+    width: 305px;
+    height: 230px;
+    padding: 20px;
+    border-top: 0px;
+    border-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bodydesign{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border: silver ;
+    background-color:rgba(177, 209, 221, 0.959) ;
+    
+}
+
+#upbar {
+    background-color: rgb(21, 21, 56);
+    padding: 20px;
+    text-align: center;
+}
+
+#travel-diary{
+    text-align: center;
+    font-size: 15px;
+}
+
+.location{
+    background-color: white;
+    
+}
+
+.topbar {
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.img-table {
+    width: 350px;
+    height: 230px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+    
+}
